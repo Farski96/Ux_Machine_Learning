@@ -1,0 +1,16 @@
+💻 Como Configurar e Rodar o Projeto no Google Colab
+Passo 1: Configuração Inicial e Upload do Arquivo
+Crie um Novo Notebook:
+
+Acesse o Google Colab.
+
+Clique em Arquivo > Novo notebook.
+  
+Fazer upload de um notebook ( o notebook aqui do repositorio UI_ML.ipynb )
+
+Faça Upload no drive do dataset( pode ser na pasta de entrada mesmo) RESULTADOPESQUISA - Dados sensiveis retirados - RESULTADOPESQUISA (1).csv
+ARQUIVO_DADOS = "/content/drive/MyDrive/RESULTADOPESQUISA - Dados sensiveis retirados - RESULTADOPESQUISA (1).csv" ( caminho path)
+# (casa voce crie uma pasta, abra os diretorios até a pasta onde deixou o dataset e você pode copiar ele clicando com o botão direito do mouse e selecionando copiar caminho)
+e substitua "copiar path e colar aqui dentro" (colocar caminho dentro do "")
+
+OBS quando você faz upload pelo drive ele pede permissão para acessar o seu drive, de a permissão.
